@@ -7,7 +7,7 @@ Gender:Female 👩🏻
 --Studies course DATA ENGINEERING at UNVERSITY TECHONOLOGY MALAYSIA (UTM) 
 
 ## 🪡 SKILL
--java, pyhton, c++, communication(Chinese, english, malay) ，qt，gemini
+-java, pyhton, c++, communication(Chinese, english, malay) ，gemini,html
 
 ## 📫 How to reach me
 -email:limlining@graduate.utm.my
