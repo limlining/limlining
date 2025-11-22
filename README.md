@@ -1,5 +1,5 @@
 ## 👋ABOUT ME
-Hi! I am LI NING a student of DATA ENGINEERING student from Malaysia.
+Hi! I am LI NING a student of DATA ENGINEERING student UNIVERSITY MALAYSIA from Malaysia.
 Age:19
 Gender:Female 👩🏻
 
