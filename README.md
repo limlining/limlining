@@ -12,6 +12,9 @@ Gender:Female 👩🏻
 ## 🗣️SPOKEN LANGUAGE
 -Chinese, english, malay
 
+## STUDIES MATERIAL
+[WEBSITE NOTE](https://limlining.github.io/web-note/)
+
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limlining@graduate.utm.my)
 
