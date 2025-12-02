@@ -19,4 +19,5 @@ Gender:Female 👩🏻
 -linkin：[www.linkedin.com/in/lim-li-ning-aa3117399]
 
 ##github
-[My GitHub Profile](https://github.com/limlining)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/limlining)
+
