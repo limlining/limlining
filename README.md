@@ -1,7 +1,13 @@
 ## 👋ABOUT ME
-Hi! I am LI NING a student of DATA ENGINEERING student UNIVERSITY MALAYSIA from Malaysia.
+Hi!
+
+I am LI NING a student of DATA ENGINEERING student UNIVERSITY MALAYSIA from Malaysia.
+
 Age:19
+
 Gender:Female 👩🏻
+
+e-portfolio:[PORTFOLIO](https://lining429.my.canva.site/)
 
 ## 🎓️ EDUCATION
 --Studies course DATA ENGINEERING at UNVERSITY TECHONOLOGY MALAYSIA (UTM) 
@@ -27,7 +33,6 @@ Gender:Female 👩🏻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lim-li-ning-aa3117399)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/limlining)
 
- 
 
 
 
