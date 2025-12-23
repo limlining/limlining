@@ -7,7 +7,7 @@ Age:19
 
 Gender:Female 👩🏻
 
-e-portfolio:[EPORTFOLIO](https://limlining.github.io/eporfolio/) / [canvaportfolio](https://lining429.my.canva.site/)
+e-portfolio:[EPORTFOLIO](https://limlining.github.io/eporfolio/)
 
 ## 🎓️ EDUCATION
      2013-2018：
