@@ -27,7 +27,7 @@ e-portfolio:[EPORTFOLIO](https://limlining.github.io/eporfolio/)
       UNI-UNIVERSITI TEKNOLOGI MALAYSIA
 
       --Studies course DATA ENGINEERING at UNVERSITY TECHONOLOGY MALAYSIA (UTM) 
-## POSITION
+## 📍POSITION
      2023/2024
 
        Chinese Language Society Vice Treasurer
@@ -50,7 +50,7 @@ e-portfolio:[EPORTFOLIO](https://limlining.github.io/eporfolio/)
 
        Dance Club Vice Treasurer
 
-## AWARDS AND HONORS
+## 🏆AWARDS AND HONORS
      -International Engineering Fair (IIEF) 2025  (Second Place) (International Level)
      -International Mechanical Engineering Project & Technology Competition (iMEPTC) UTHM 2025 (Third Place) (International Level)
      -INNOMATH IMU (Second Place) (International Level)
@@ -63,7 +63,7 @@ e-portfolio:[EPORTFOLIO](https://limlining.github.io/eporfolio/)
      -National Chemistry Quiz (O Level) (Honors) (National Level)
      -Digital Competency Score (Digital Advanced) (National Level)
 
-## CERTIFICATE
+## 📜CERTIFICATE
 [CERTIFICATE 1.0](https://limlining.github.io/eporfolio/#achievement)
 
 [CERTIFICATE 2.0](https://www.linkedin.com/in/lim-li-ning-aa3117399/details/certifications/)
