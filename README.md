@@ -27,7 +27,46 @@ e-portfolio:[EPORTFOLIO](https://limlining.github.io/eporfolio/)
       UNI-UNIVERSITI TEKNOLOGI MALAYSIA
 
       --Studies course DATA ENGINEERING at UNVERSITY TECHONOLOGY MALAYSIA (UTM) 
+## POSITION
+     2023/2024
 
+       Chinese Language Society Vice Treasurer
+
+       Sports House Vice Treasurer
+
+       Girl Guides Treasurer
+
+       Prefect
+
+     2024/2025
+
+       Pal Leader 
+
+       Moral Secretary
+
+       Co-Curricular Committee Member 
+
+       Chemistry Club Committee Member
+
+       Dance Club Vice Treasurer
+
+## AWARDS AND HONORS
+     -International Engineering Fair (IIEF) 2025  (Second Place) (International Level)
+     -International Mechanical Engineering Project & Technology Competition (iMEPTC) UTHM 2025 (Third Place) (International Level)
+     -INNOMATH IMU (Second Place) (International Level)
+     -Maths Trail (First Place) (College Level)
+     -Matechfest (Third Place) (National Level)
+     -INNOMATH (Second Place) (College Level)
+     -Run AI Models with IBM Watson Studio (National Level)
+     -Introduction to Artificial Intelligence (National Level)
+     -National Chemistry Quiz (A Level) (Merit) (National Level)
+     -National Chemistry Quiz (O Level) (Honors) (National Level)
+     -Digital Competency Score (Digital Advanced) (National Level)
+
+## CERTIFICATE
+[CERTIFICATE 1.0](https://limlining.github.io/eporfolio/#achievement)
+
+[CERTIFICATE 2.0](https://www.linkedin.com/in/lim-li-ning-aa3117399/details/certifications/)
 
 ## STUDIES MATERIAL
 NOTE & ASSIGNMENT & LAB:
@@ -52,6 +91,10 @@ ABOUT COURSE:
 
 ## Project
 [PowerSolar](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/blob/main/powersolar.pdf)
+
+[LostAndFound](https://github.com/TenJingYi/lost_and_found_app)(with friend)
+
+[MentalHealthSupport](https://github.com/limlijing/Mental-Health-Support-)(project airost)
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limlining@graduate.utm.my)
