@@ -17,14 +17,13 @@ e-portfolio:[EPORTFOLIO](https://limlining.github.io/eporfolio/)
      2019-2023/2024：
 
       SECONDARY SCHOOL-SMK TUN PERAK  
-
-      SPM: 4A+ 3A 3B
+           SPM: 4A+ 3A 3B
 
      2024-2025：
 
       PRE UNI - KOLEJ MATRIKULASI JOHOR
-      CGPA:4.0
-      MUET:3.5
+           CGPA:4.0
+           MUET:3.5
 
      NOW：
 
