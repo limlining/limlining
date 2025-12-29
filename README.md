@@ -28,7 +28,7 @@ e-portfolio:[EPORTFOLIO](https://limlining.github.io/eporfolio/)
 
       --Studies course DATA ENGINEERING at UNVERSITY TECHONOLOGY MALAYSIA (UTM) 
 ## 📍POSITION
-     2023/2024
+     SECONDARY SCHOOL 2023/2024
 
        Chinese Language Society Vice Treasurer
 
@@ -38,7 +38,7 @@ e-portfolio:[EPORTFOLIO](https://limlining.github.io/eporfolio/)
 
        Prefect
 
-     2024/2025
+     PRE UNIVERSITY 2024/2025
 
        Pal Leader 
 
@@ -68,20 +68,29 @@ e-portfolio:[EPORTFOLIO](https://limlining.github.io/eporfolio/)
 
 [CERTIFICATE 2.0](https://www.linkedin.com/in/lim-li-ning-aa3117399/details/certifications/)
 
-## STUDIES MATERIAL
+## 🏗️Project
+[PowerSolar](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/blob/main/powersolar.pdf)
+
+[LostAndFound](https://github.com/TenJingYi/lost_and_found_app)(with friend)
+
+[MentalHealthSupport](https://github.com/limlijing/Mental-Health-Support-)(project airost)
+
+
+# 📚 Courses
 NOTE & ASSIGNMENT & LAB:
 
 [WEBSITE NOTE📚](https://limlining.github.io/web-note/)    
 
-ABOUT COURSE:
 
-[SECP](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM)
+| Code        | Course                          | Link       |
+|-------------|---------------------------------|------------|
+| **SECI1013** | Discrete Structure              | [Click here](https://github.com/limlining/SECJ-PROGRAMMING-TECHONOLOGY-) |
+| **SECJ1013** | Programming Technique 1         | [Click here](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM) |
+| **SECP1513** | Technology & Information System | [Click here](https://github.com/limlining/SECR-DIGITAL-LOGIC) |
+| **SECR1013** | Digital Logic                   | [Click here](https://github.com/limlining/SECI--DISCRETE-STRUCTURE) |
 
-[SECR](https://github.com/limlining/SECR-DIGITAL-LOGIC)
 
-[SECI](https://github.com/limlining/SECI--DISCRETE-STRUCTURE)
 
-[SECJ](https://github.com/limlining/SECJ-PROGRAMMING-TECHONOLOGY-)
 
 ## 🗣️SPOKEN LANGUAGE
 -Chinese, english, malay
@@ -89,12 +98,6 @@ ABOUT COURSE:
 ## 💻 SKILL:
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language)) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://en.wikipedia.org/wiki/Python_(programming_language)) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## Project
-[PowerSolar](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/blob/main/powersolar.pdf)
-
-[LostAndFound](https://github.com/TenJingYi/lost_and_found_app)(with friend)
-
-[MentalHealthSupport](https://github.com/limlijing/Mental-Health-Support-)(project airost)
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limlining@graduate.utm.my)
