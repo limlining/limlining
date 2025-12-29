@@ -10,62 +10,60 @@ Gender:Female 👩🏻
 e-portfolio:[EPORTFOLIO](https://limlining.github.io/eporfolio/)
 
 ## 🎓️ EDUCATION
-     2013-2018：
+2013-2018：
 
       PRIMARY SCHOOL-SJK（C）SING HWA
-
-     2019-2023/2024：
+           UPSR:1A 7B
+          
+2019-2023/2024：
 
       SECONDARY SCHOOL-SMK TUN PERAK  
            SPM: 4A+ 3A 3B
 
-     2024-2025：
+2024-2025：
 
       PRE UNI - KOLEJ MATRIKULASI JOHOR
            CGPA:4.0
            MUET:3.5
 
-     NOW：
+NOW：
 
       UNI-UNIVERSITI TEKNOLOGI MALAYSIA
 
       --Studies course DATA ENGINEERING at UNVERSITY TECHONOLOGY MALAYSIA (UTM) 
 ## 📍POSITION
-     SECONDARY SCHOOL 2023/2024
+ SECONDARY SCHOOL 2023/2024:
 
-       Chinese Language Society Vice Treasurer
+       1.Chinese Language Society Vice Treasurer
+       2.Sports House Vice Treasurer
+       3.Girl Guides Treasurer
+       4.Prefect
 
-       Sports House Vice Treasurer
+PRE UNIVERSITY 2024/2025:
 
-       Girl Guides Treasurer
+       1.Pal Leader 
+       2.Moral Secretary
+       3.Co-Curricular Committee Member 
+       4.Chemistry Club Committee Member
+       5.Dance Club Vice Treasurer
+       6.ANUGERAH KHAS KO-ACADEMIC KMJ
 
-       Prefect
-
-     PRE UNIVERSITY 2024/2025
-
-       Pal Leader 
-
-       Moral Secretary
-
-       Co-Curricular Committee Member 
-
-       Chemistry Club Committee Member
-
-       Dance Club Vice Treasurer
+UNIVERSITY:
+      
+       1.MEMBER AIROST
 
 ## 🏆AWARDS AND HONORS
-     -International Engineering Fair (IIEF) 2025  (Second Place) (International Level)
-     -International Mechanical Engineering Project & Technology Competition (iMEPTC) UTHM 2025 (Third Place) (International Level)
-     -INNOMATH IMU (Second Place) (International Level)
-     -Maths Trail (First Place) (College Level)
-     -Matechfest (Third Place) (National Level)
-     -INNOMATH (Second Place) (College Level)
-     -Run AI Models with IBM Watson Studio (National Level)
-     -Introduction to Artificial Intelligence (National Level)
-     -National Chemistry Quiz (A Level) (Merit) (National Level)
-     -National Chemistry Quiz (O Level) (Honors) (National Level)
-     -Digital Competency Score (Digital Advanced) (National Level)
-     -Anugerah Khas Ko-Academic(kolej level)
+| LEVEL      |   COMPETITION                       | AWARD     |
+|-------------|---------------------------------|------------|
+| **INTERNATIONAL** |International Engineering Fair (IIEF) 2025              |Second Place |
+| **INTERNATIONAL** |International Mechanical Engineering Project & Technology Competition (iMEPTC) UTHM 2025       | Third Place |
+| **INTERNATIONAL** |INNOMATH IMU|Second Place|
+| **NATIONAL** |Matechfest                  | Third Place |
+| **NATIONAL** |Run AI Models with IBM Watson Studio||
+| **NATIONAL** |National Chemistry Quiz (A Level)          | MERIT |
+| **NATIONAL** |National Chemistry Quiz (O Level) (Honors)|HONORS|
+| **NATIONAL** |Digital Competency Score (Digital Advanced)         | |
+     
 
 ## 📜CERTIFICATE
 [CERTIFICATE 1.0](https://limlining.github.io/eporfolio/#achievement)
