@@ -1,5 +1,6 @@
 ## 👋ABOUT ME
-Hi!
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi!!)
+
 
 I am LI NING a student of DATA ENGINEERING student UNIVERSITY MALAYSIA from Malaysia.                              
 
@@ -90,6 +91,9 @@ NOTE & ASSIGNMENT & LAB:
 | **SECJ1013** | Programming Technique 1         | [Click here](https://github.com/limlining/SECJ-PROGRAMMING-TECHONOLOGY-) |
 | **SECP1513** | Technology & Information System | [Click here](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM) |
 | **SECR1013** | Digital Logic                   | [Click here](https://github.com/limlining/SECR-DIGITAL-LOGIC) |
+| **ULRS1032** | Integrity-And-Anti-Corruption                | [Click here](https://github.com/limlining/Integrity-And-Anti-Corruption) |
+
+
 
 
 
