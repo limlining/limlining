@@ -86,10 +86,10 @@ NOTE & ASSIGNMENT & LAB:
 
 | Code        | Course                          | Link       |
 |-------------|---------------------------------|------------|
-| **SECI1013** | Discrete Structure              | [Click here](https://github.com/limlining/SECJ-PROGRAMMING-TECHONOLOGY-) |
-| **SECJ1013** | Programming Technique 1         | [Click here](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM) |
-| **SECP1513** | Technology & Information System | [Click here](https://github.com/limlining/SECR-DIGITAL-LOGIC) |
-| **SECR1013** | Digital Logic                   | [Click here](https://github.com/limlining/SECI--DISCRETE-STRUCTURE) |
+| **SECI1013** | Discrete Structure              | [Click here](https://github.com/limlining/SECI--DISCRETE-STRUCTURE) |
+| **SECJ1013** | Programming Technique 1         | [Click here](https://github.com/limlining/SECJ-PROGRAMMING-TECHONOLOGY-) |
+| **SECP1513** | Technology & Information System | [Click here](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM) |
+| **SECR1013** | Digital Logic                   | [Click here](https://github.com/limlining/SECR-DIGITAL-LOGIC) |
 
 
 
