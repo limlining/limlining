@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi!!)
 
 
-I am LI NING a student of DATA ENGINEERING student UNIVERSITY MALAYSIA from Malaysia.                              
+I am LI NING a first year student of DATA ENGINEERING student UNIVERSITY MALAYSIA from Malaysia.                              
 
 Age:19
 
