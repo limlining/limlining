@@ -62,7 +62,7 @@ UNIVERSITY:
 | **NATIONAL** |Matechfest                  | Third Place |
 | **NATIONAL** |Run AI Models with IBM Watson Studio||
 | **NATIONAL** |National Chemistry Quiz (A Level)          | MERIT |
-| **NATIONAL** |National Chemistry Quiz (O Level) (Honors)|HONORS|
+| **NATIONAL** |National Chemistry Quiz (O Level) |HONORS|
 | **NATIONAL** |Digital Competency Score (Digital Advanced)         | |
      
 
