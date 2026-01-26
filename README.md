@@ -32,7 +32,7 @@
 
 <br/>
 
-<div align="center">
+
 
 ## 🎓️ EDUCATION
 2013-2018：
