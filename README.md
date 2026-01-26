@@ -173,5 +173,10 @@ NOTE & ASSIGNMENT & LAB:
 ### 📊 GITHUB STATISTICS
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limlining&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="Li Ning's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limlining&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limlining&layout=compact&theme=transparent&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=limlining&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
