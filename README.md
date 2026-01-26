@@ -89,7 +89,7 @@ NOW：
 | ☀️ **CampusSpot** | Technology & Info System | [📂 Repo](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM#design-thinking-project) |
 | 🔍 **LostAndFound** | Collaborative Mobile App | [📂 Repo](https://github.com/TenJingYi/lost_and_found_app) |
 | 🧠 **MentalHealth** | AIROST Specialized Project | [📂 Repo](https://github.com/limlijing/Mental-Health-Support-) |
-| 💻 **MentalHealth** | Digital logic Project | [📂 Repo](https://github.com/limlining/SECR-DIGITAL-LOGIC#project) |
+| 💻 **ELEVETOR CONTROL SYSTEM** | Digital logic Project | [📂 Repo](https://github.com/limlining/SECR-DIGITAL-LOGIC#project) |
 
 <br/>
 
