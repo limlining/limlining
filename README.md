@@ -86,9 +86,10 @@ NOW：
 ---
 | Project Name | Focus / Description | Source |
 | :--- | :--- | :--- |
-| ☀️ **PowerSolar** | Technology & Info System | [📂 PDF](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/blob/main/powersolar.pdf) |
+| ☀️ **CampusSpot** | Technology & Info System | [📂 PDF](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/blob/main/powersolar.pdf) |
 | 🔍 **LostAndFound** | Collaborative Mobile App | [📂 Repo](https://github.com/TenJingYi/lost_and_found_app) |
 | 🧠 **MentalHealth** | AIROST Specialized Project | [📂 Repo](https://github.com/limlijing/Mental-Health-Support-) |
+| 💻 **MentalHealth** | Digital logic Project | [📂 Repo](https://github.com/limlining/SECR-DIGITAL-LOGIC#project)) |
 
 <br/>
 
@@ -101,11 +102,11 @@ NOTE & ASSIGNMENT & LAB:
 
 | Code        | Course                          | Link       |
 |-------------|---------------------------------|------------|
-| **SECI1013** | Discrete Structure              | [Click here](https://github.com/limlining/SECI--DISCRETE-STRUCTURE) |
-| **SECJ1013** | Programming Technique 1         | [Click here](https://github.com/limlining/SECJ-PROGRAMMING-TECHONOLOGY-) |
-| **SECP1513** | Technology & Information System | [Click here](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM) |
-| **SECR1013** | Digital Logic                   | [Click here](https://github.com/limlining/SECR-DIGITAL-LOGIC) |
-| **ULRS1032** | Integrity-And-Anti-Corruption                | [Click here](https://github.com/limlining/Integrity-And-Anti-Corruption) |
+| **SECI1013** | Discrete Structure              | [📂 Open Repo](https://github.com/limlining/SECI--DISCRETE-STRUCTURE) |
+| **SECJ1013** | Programming Technique 1         | [📂 Open Repo](https://github.com/limlining/SECJ-PROGRAMMING-TECHONOLOGY-) |
+| **SECP1513** | Technology & Information System | [📂 Open Repo](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM) |
+| **SECR1013** | Digital Logic                   | [📂 Open Repo](https://github.com/limlining/SECR-DIGITAL-LOGIC) |
+| **ULRS1032** | Integrity-And-Anti-Corruption                | [📂 Open Repo](https://github.com/limlining/Integrity-And-Anti-Corruption) |
 
 ## 📍 LEADERSHIP & POSITIONS
 ---
@@ -167,6 +168,7 @@ NOTE & ASSIGNMENT & LAB:
   <a href="http://www.linkedin.com/in/lim-li-ning-aa3117399"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/limlining"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
 
 ### 📊 GITHUB STATISTICS
 ---
