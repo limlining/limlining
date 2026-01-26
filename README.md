@@ -168,4 +168,8 @@ NOTE & ASSIGNMENT & LAB:
   <a href="https://github.com/limlining"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-
+### 📊 GITHUB STATISTICS
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=limlining&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="Li Ning's GitHub Stats" />
+</p>
