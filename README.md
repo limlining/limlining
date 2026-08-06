@@ -24,7 +24,7 @@
 </div>
 
 <p align="left">
-  📅 <b>Age:</b> 19 <br/>
+  📅 <b>Age:</b> 20 <br/>
   👩🏻 <b>Gender:</b> Female <br/>
   📍 <b>Location:</b> Malaysia <br/>
   🔗 <b>E-portfolio:</b> <a href="https://limlining.github.io/eporfolio/">Visit My Website</a>
@@ -56,6 +56,9 @@ NOW：
       UNI-UNIVERSITI TEKNOLOGI MALAYSIA
 
       --Studies course DATA ENGINEERING at UNVERSITY TECHONOLOGY MALAYSIA (UTM) 
+      Year1:
+      SEMESTER 1-3.93
+      SEMESTER 2-3.93
 
 
 ## 🏆 AWARDS AND HONORS
@@ -95,6 +98,7 @@ NOW：
 
 
 # 📚 Courses
+YEAR 1 SEMESTER 1:
 NOTE & ASSIGNMENT & LAB:
 
 [WEBSITE NOTE📚](https://limlining.github.io/web-note/)    
