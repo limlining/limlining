@@ -73,7 +73,7 @@ NOTE & ASSIGNMENT & LAB:
 
 [WEBSITE NOTE📚](https://limlining.github.io/web-note/)
 
-[Y1S1](http://github.com/limlining/year-1-semester-1/sem1/readme.md)
+[Y1S1](https://github.com/limlining/year-1/tree/main/sem1)
 
 [Y1S2](https://github.com/limlining/year-1/tree/main/sem2)
 ## 🗣️SPOKEN LANGUAGE
