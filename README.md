@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="./Screenshot%202026-01-26%20090754.png" width="100%" />
-
-<br/>
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+LI+NING;Welcome+to+my+profile!)
 
 <table align="center">
@@ -35,47 +29,26 @@
 
 
 ## 🎓️ EDUCATION
-2013-2018：
+- *2025–Present* :Universiti Teknologi Malaysia (UTM), Johor Bahru  
 
-      PRIMARY SCHOOL-SJK（C）SING HWA
-           UPSR:1A 7B
-          
-2019-2023/2024：
+      Bachelor of Computer Science (Data Engineering) with Honours  
+      Current CGPA : 3.93
 
-      SECONDARY SCHOOL-SMK TUN PERAK  
-           SPM: 4A+ 3A 3B
+- *2024–2025* :Kolej Matrikulasi Johor  
 
-2024-2025：
+      Foundation in Physical Science  
+      CGPA : 4.0
+  
+- *2019–2023* :SMK Tun Perak  
 
-      PRE UNI - KOLEJ MATRIKULASI JOHOR
-           CGPA:4.0
-           
-NOW：
+      SPM : 7As 
 
-      UNI-UNIVERSITI TEKNOLOGI MALAYSIA
+- *2013–2018* :SJK (C) Sing Hwa  
 
-      --Studies course DATA ENGINEERING at UNVERSITY TECHONOLOGY MALAYSIA (UTM) 
-      Year1:
-      SEMESTER 1-3.93
-      SEMESTER 2-3.93
+      UPSR : 1A 7B
 
 
 ## 🏆 AWARDS AND HONORS
----
-
-| 🌐 LEVEL | 🚀 COMPETITION | 🏅 AWARD |
-| :--- | :--- | :--- |
-| **INTERNATIONAL** | International Engineering Fair (IIEF) 2025 | **Second Place** |
-| **INTERNATIONAL** | International Mechanical Engineering Project & Tech Competition (iMEPTC) UTHM 2025 | **Third Place** |
-| **INTERNATIONAL** | INNOMATH IMU | **Second Place** |
-| **NATIONAL** | Matechfest | **Third Place** |
-| **NATIONAL** | Run AI Models with IBM Watson Studio | **Participant** |
-| **NATIONAL** | National Chemistry Quiz (A Level) | **MERIT** |
-| **NATIONAL** | National Chemistry Quiz (O Level) | **HONORS** |
-| **NATIONAL** | Digital Competency Score (Digital Advanced) | **Achieved** |
-
-<br/>
-<p align="left">
 📜 CERTIFICATES
   
 - 📑 **CERTIFICATE 1.0** — [E-Portfolio Achievement Gallery](https://limlining.github.io/eporfolio/#achievement)
@@ -96,48 +69,11 @@ NOW：
 
 
 # 📚 Courses
-YEAR 1 SEMESTER 1:
 NOTE & ASSIGNMENT & LAB:
 
-[WEBSITE NOTE📚](https://limlining.github.io/web-note/)    
+[WEBSITE NOTE📚](https://limlining.github.io/web-note/)
+
 [Y1S1](http://github.com/limlining/year-1-semester-1/sem1/readme.md)
-
-
-## 📍 LEADERSHIP & POSITIONS
----
-
-<table width="100%">
-  <tr>
-    <td width="25%" align="center"><b>UNIVERSITY</b></td>
-    <td align="left">
-      • <b>Member</b> of AIROST (Artificial Intelligence & Robotics Society)
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="25%" align="center"><b>PRE-UNIVERSITY</b><br/><sub>2024 - 2025</sub></td>
-    <td align="left">
-      🏆 <b>ANUGERAH KHAS KO-ACADEMIC KMJ</b> <br/>
-      🤝 <b>Pal Leader</b> <br/>
-      📝 <b>Moral Secretary</b> <br/>
-      🏢 <b>Co-Curricular Committee Member</b> <br/>
-      🧪 <b>Chemistry Club Committee Member</b> <br/>
-      💃 <b>Dance Club:</b> Vice Treasurer
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="25%" align="center"><b>SECONDARY</b><br/><sub>2023 - 2024</sub></td>
-    <td align="left">
-      👮 <b>Prefect</b> - School Prefect Board <br/>
-      🏕️ <b>Girl Guides:</b> Treasurer <br/>
-      🎨 <b>Chinese Language Society:</b> Vice Treasurer <br/>
-      🏠 <b>Sports House:</b> Vice Treasurer
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ## 🗣️SPOKEN LANGUAGE
 <p align="left">
