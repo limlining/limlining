@@ -49,8 +49,7 @@
 
       PRE UNI - KOLEJ MATRIKULASI JOHOR
            CGPA:4.0
-           MUET:3.5
-
+           
 NOW：
 
       UNI-UNIVERSITI TEKNOLOGI MALAYSIA
