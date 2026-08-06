@@ -103,14 +103,6 @@ NOTE & ASSIGNMENT & LAB:
 [WEBSITE NOTE📚](https://limlining.github.io/web-note/)    
 
 
-| Code        | Course                          | Link       |
-|-------------|---------------------------------|------------|
-| **SECI1013** | Discrete Structure              | [📂 Open Repo](https://github.com/limlining/SECI--DISCRETE-STRUCTURE) |
-| **SECJ1013** | Programming Technique 1         | [📂 Open Repo](https://github.com/limlining/SECJ-PROGRAMMING-TECHONOLOGY-) |
-| **SECP1513** | Technology & Information System | [📂 Open Repo](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM) |
-| **SECR1013** | Digital Logic                   | [📂 Open Repo](https://github.com/limlining/SECR-DIGITAL-LOGIC) |
-| **ULRS1032** | Integrity-And-Anti-Corruption                | [📂 Open Repo](https://github.com/limlining/Integrity-And-Anti-Corruption) |
-
 ## 📍 LEADERSHIP & POSITIONS
 ---
 
