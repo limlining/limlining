@@ -75,6 +75,8 @@ NOTE & ASSIGNMENT & LAB:
 
 [Y1S1](http://github.com/limlining/year-1-semester-1/sem1/readme.md)
 
+[Y1S2](https://github.com/limlining/year-1/tree/sem2)
+
 ## 🗣️SPOKEN LANGUAGE
 <p align="left">
 -Chinese, english, malay
