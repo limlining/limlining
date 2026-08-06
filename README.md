@@ -77,8 +77,7 @@ NOW：
 <br/>
 <p align="left">
 📜 CERTIFICATES
----
-      
+  
 - 📑 **CERTIFICATE 1.0** — [E-Portfolio Achievement Gallery](https://limlining.github.io/eporfolio/#achievement)
       
 - 🎓 **CERTIFICATE 2.0** — [LinkedIn Official Certifications](https://www.linkedin.com/in/lim-li-ning-aa3117399/details/certifications/)
@@ -101,6 +100,7 @@ YEAR 1 SEMESTER 1:
 NOTE & ASSIGNMENT & LAB:
 
 [WEBSITE NOTE📚](https://limlining.github.io/web-note/)    
+[Y1S1](http://github.com/limlining/year-1-semester-1/sem1/readme.md)
 
 
 ## 📍 LEADERSHIP & POSITIONS
