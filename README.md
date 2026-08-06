@@ -10,7 +10,7 @@
   <tr>
     <td bgcolor="black" align="center" style="padding: 10px 20px;">
       <font color="white" face="Courier New" size="3">
-        <b>YEAR 1 COMPUTER SCIENCE (DATA ENGINEERING) STUDENT @ UTM</b>
+        <b>YEAR 2 COMPUTER SCIENCE (DATA ENGINEERING) STUDENT @ UTM</b>
       </font>
     </td>
   </tr>
