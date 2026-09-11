@@ -32,7 +32,7 @@
 - *2025–Present* :Universiti Teknologi Malaysia (UTM), Johor Bahru  
 
       Bachelor of Computer Science (Data Engineering) with Honours  
-      Current CGPA : 3.93
+      Current CGPA : 3.95
 
 - *2024–2025* :Kolej Matrikulasi Johor  
 
