@@ -64,6 +64,8 @@
 | 🔍 **LostAndFound** | Collaborative Mobile App | [📂 Repo](https://github.com/TenJingYi/lost_and_found_app) |
 | 🧠 **MentalHealth** | AIROST Specialized Project | [📂 Repo](https://github.com/limlijing/Mental-Health-Support-) |
 | 💻 **ELEVETOR CONTROL SYSTEM** | Digital logic Project | [📂 Repo](https://github.com/limlining/SECR-DIGITAL-LOGIC#project) |
+| ✈️ **OmniTrip** | Travel Prototype Project| [📂 Repo](https://github.com/TenJingYi/Null) |
+
 
 <br/>
 
