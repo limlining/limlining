@@ -104,14 +104,3 @@ NOTE & ASSIGNMENT & LAB:
   <a href="https://github.com/limlining"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-
-### 📊 GITHUB STATISTICS
----
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limlining&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limlining&layout=compact&theme=transparent&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=limlining&theme=react-dark&area=true&hide_border=true" width="100%" />
-</p>
