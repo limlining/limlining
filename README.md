@@ -65,7 +65,7 @@
 | 🧠 **MentalHealth** | AIROST Specialized Project | [📂 Repo](https://github.com/limlijing/Mental-Health-Support-) |
 | 💻 **ELEVETOR CONTROL SYSTEM** | Digital logic Project | [📂 Repo](https://github.com/limlining/SECR-DIGITAL-LOGIC#project) |
 | ✈️ **OmniTrip** | Travel Prototype Project| [📂 Repo](https://github.com/TenJingYi/Null) |
-| 💻**DOSM** |NULL DATATHON DOSM STATISTIC | [📂 Repo](https://github.com/limlining/NULLDATATHON)) |
+| 💻**DOSM** |NULL DATATHON DOSM STATISTIC | [📂 Repo](https://github.com/limlining/NULLDATATHON) |
 
 
 <br/>
